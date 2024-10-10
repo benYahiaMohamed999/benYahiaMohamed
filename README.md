@@ -2,8 +2,20 @@
     <img src="https://1.bp.blogspot.com/-7A4WynwLsMw/XbBpCXG8fHI/AAAAAAAAMt4/uOa1bpLskYgrwGbllhSu2SDj_Mig8SXJQCLcBGAsYHQ/s1600/2000_600px.gif" alt="MasterHead">
 </a>
 
-<h1 align="center">Hi 👋, I'm Mohamed ben yahia</h1>
-<h3 align="center">A passionate flutter developer from Tunisia</h3>
+<div align="center">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.demolab.com/?lines=Hi+👋;I'm+Mohamed+ben+yahia" alt="Typing SVG">
+  </a>
+</div>
+
+
+<div align="center">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.demolab.com/?lines=A +passionate +flutter +developer;from +Tunisia" alt="Typing SVG">
+  </a>
+</div>
+
+
 
 <img src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif" alt="Coding" width="400" align="right">
 
@@ -25,3 +37,11 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=benyahiamohamed&show_icons=true&locale=en&layout=compact" alt="benyahiamohamed" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=benyahiamohamed&show_icons=true&locale=en" alt="benyahiamohamed" /></p>
+
+
+
+
+
+
+
+
