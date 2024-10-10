@@ -24,7 +24,18 @@
 
 
 
-<p align="left"> <a href="https://twitter.com/benyahiamohamed" target="blank"><img src="https://img.shields.io/twitter/follow/benyahiamohamed?logo=twitter&style=for-the-badge" alt="benyahiamohamed" /></a> </p>
+### 🔗 Connect with me:
+<p align="left">
+  <a href="https://twitter.com/benyahiamohamed" target="blank">
+    <img src="https://img.shields.io/twitter/follow/benyahiamohamed?logo=twitter&style=for-the-badge" alt="Twitter Follow" />
+  </a>
+  <a href="https://www.facebook.com/your-facebook-profile" target="blank">
+    <img src="https://img.shields.io/badge/-Facebook-3b5998?style=for-the-badge&logo=facebook" alt="Facebook" />
+  </a>
+  <a href="https://www.instagram.com/your-instagram-profile" target="blank">
+    <img src="https://img.shields.io/badge/-Instagram-E1306C?style=for-the-badge&logo=instagram" alt="Instagram" />
+  </a>
+</p>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
